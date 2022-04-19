@@ -1,6 +1,6 @@
 {
   "name": "@eluvio/elv-docdash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A customized version of the Docdash JSDoc theme (https://github.com/clenemt/docdash)",
   "main": "index.js",
   "scripts": {
