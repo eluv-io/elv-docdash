@@ -96,6 +96,18 @@ h4.name {
   padding: .75em 0 .75em 10px;
 }
 
+h4.name:target {
+  animation-name: blink;
+  animation-direction: normal;
+  animation-duration: 0.5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+@keyframes blink {
+  0% { background-color: #c276c2; }
+  100% { background-color: #6d426d; }
+}
+
 h4.name a {
   color: #fc83ff;
 }
