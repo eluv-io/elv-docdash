@@ -1,6 +1,6 @@
 ## Customizations
 
-* Remove unneeded files (e.g. fixtures/)
+* Remove several unused files
 * Clean up some items that were causing IDE warnings during code inspection
 * Wrap each method/member in 2 nested divs to allow additional formatting
 * Change jsdoc.css to add padding and borders for methods/members

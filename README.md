@@ -1,6 +1,6 @@
 # elv-docdash
 
-**This is a modified version of the [Docdash](docdashhttps://github.com/clenemt/docdash) JSDoc theme by [Clement Moron](https://github.com/clenemt).** See CHANGELOG.md for a list of customizations.
+**This is a modified version of the [Docdash](docdashhttps://github.com/clenemt/docdash) JSDoc theme by [Clement Moron](https://github.com/clenemt).** See [CHANGELOG.md](./CHANGELOG.md) for a list of customizations.
 
 
 ## Install
